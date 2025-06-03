@@ -1,4 +1,4 @@
-package may;
+package june
 
 public class candita {
      public long distributeCandies(int n, int limit) {
