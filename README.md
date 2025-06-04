@@ -1,3 +1,3 @@
 # LeetCode-2025
-LeetCode DSA Problem Solving (Question)
+LeetCode DSA Problem Solving (Question).
 .
