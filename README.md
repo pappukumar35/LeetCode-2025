@@ -2,7 +2,7 @@
 
 A complete year-long LeetCode roadmap, organized month-by-month, week-by-week, and day-by-day.  
 Track your progress with ⬜ Not Done, ✅ Completed, ⚠️ Review.  
-Stay consistent and level up! 💪
+Stay consistent and level up! 💪.
 
 -------
 
