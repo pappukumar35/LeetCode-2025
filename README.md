@@ -1,4 +1,4 @@
-# 📘 LeetCode 2025: Monthly | Weekly | Daily Practice Tracker
+# 📘 LeetCode 2025: Monthly | Weekly | Daily Practice Tracker.
 
 A complete year-long LeetCode roadmap, organized month-by-month, week-by-week, and day-by-day.  
 Track your progress with ⬜ Not Done, ✅ Completed, ⚠️ Review.  
