@@ -6,7 +6,7 @@ Stay consistent and level up! 💪.
 
 ----------
 
-## 📅 January 2025
+## 📅 January 2025.
 
 <details>
 <summary>📖 Week 1</summary>
